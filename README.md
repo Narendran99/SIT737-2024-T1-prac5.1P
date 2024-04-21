@@ -1,2 +1,2 @@
-# SIT737-2024-T1-prac5.1P
-Docker file
+# SIT737-2024-T1-prac4.2C
+ Calculator with additional arithmatic operations
